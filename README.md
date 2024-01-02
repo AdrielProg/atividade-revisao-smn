@@ -45,7 +45,7 @@ https://whimsical.com/questao-3-Upxdxp7xwncvHTskkgt923
         * Outro ponto, também, foi a questão dos inquilinos que na minha modelagem eles foram vistos como dependêntes já que, caso o proprietário também seja o morador, a tabela de dependentes irá representar os dependêntes como possíveis familiáres do proprietário e, caso esse proprietário não seja morador, a tabela de dependentes também irá representar esses inquilinos.  
         * referente a tipagem de dados em algumas tabelas utilizei tipo de dados inteiro para chaves surragadas mais condizentes com a realidades EX: na tabela tipo_contato de Ianko o dado está como smallint, e a minha está como tinyint. 
 
-        As demais divergências ficarão mais claras na resolução da questão 5.
+        As demais divergências poderão ser visualizadas abaixo: 
 
 <table>
   <tr>
@@ -53,3 +53,10 @@ https://whimsical.com/questao-3-Upxdxp7xwncvHTskkgt923
     <td><img src="ImmoLinkAdriel.png" alt="Descrição da Imagem 2"></td>
   </tr>
 </table>
+
+
+5- Crie sua modelagem com base na incompleta de Ianko, utilizando as alterações que desejar e finalize os módulos que ele não terminou.
+
+Segue correção da minha modelagem com base na modelagem feita por Ianko. 
+
+![Fluxograma](ImmoLinkFinalAdrielpng.png)
