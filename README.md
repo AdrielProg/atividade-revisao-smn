@@ -37,4 +37,19 @@ https://whimsical.com/questao-3-Upxdxp7xwncvHTskkgt923
 ![Fluxograma](Questao3.png)
  
 
+4- Sobre a modelagem feita por Ianko para a ImmoLink, quais são as divergências em relação ao seu pensamento, seja em tipagem, nomenclatura, tabelas, etc.
 
+    Em relação á modelagem de Ianko alguns pontos de divergência na minha modelagem ficaram em destaque:
+        * Como algumas nomenclaturas de tabelas e criação de tabelas de endereço para as entidades principais já que na minha forma de pensar, ao ler a regra de negócio, não havia indicativos. 
+        * Além disso, alguns atributos para controle como manutes e outras tabelas adicionais conforme pedia a regra de negócio da immoLink foram adicionadas. O principal ponto de divergÊncia da minha modelagem para de Ianko foi mais as questões de endereço das entidades mais fortes e a tabela de histórico de propriedades que não foi feita na minha modelagem. 
+        * Outro ponto, também, foi a questão dos inquilinos que na minha modelagem eles foram vistos como dependêntes já que, caso o proprietário também seja o morador, a tabela de dependentes irá representar os dependêntes como possíveis familiáres do proprietário e, caso esse proprietário não seja morador, a tabela de dependentes também irá representar esses inquilinos.  
+        * referente a tipagem de dados em algumas tabelas utilizei tipo de dados inteiro para chaves surragadas mais condizentes com a realidades EX: na tabela tipo_contato de Ianko o dado está como smallint, e a minha está como tinyint. 
+
+        As demais divergências ficarão mais claras na resolução da questão 5.
+
+<table>
+  <tr>
+    <td><img src="ImmoLink.png" alt="Descrição da Imagem 1"></td>
+    <td><img src="ImmoLinkAdriel.png" alt="Descrição da Imagem 2"></td>
+  </tr>
+</table>
