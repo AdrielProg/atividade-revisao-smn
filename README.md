@@ -27,3 +27,14 @@ https://whimsical.com/immolink-P5p45HJ2cSbVxsb5F5tKfB
     Considerações: Apesar da normalização ser sempre bem vista para deixar a modelagem mais robusta é necessário ter em mente que alguns aspectos podem pesar na hora de se utlizar uma normalização muito engessada e rigorosa, principalmente, quando se começa a confeccionar consultas pois, devido as normalização, alguns dados para sempre agrupados em apenas uma consulta podem levar muitos INNER JOINS, o que pode deixar a consulta mais lenta ou cara dependendo da quantidade de dados e do banco que se esteja utilziando. Desse modo, existem modulos de estudos sobre desnormalização de dados para que se tenha consultas mais fácies e precisas a serem retornadas. Resumindo, é necessário achar o meio termo pois tudo "DEPENDE".  
     
 
+
+3- Crie um fluxograma para a criação de modelagem.
+
+Segue modelagem referente ao processo de criação de uma modelagem de dados. 
+
+https://whimsical.com/questao-3-Upxdxp7xwncvHTskkgt923
+     
+![Fluxograma](Questao3.png)
+ 
+
+
